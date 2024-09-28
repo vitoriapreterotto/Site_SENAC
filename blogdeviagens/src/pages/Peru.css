@@ -1,0 +1,50 @@
+.peru-travel-page {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+.intro {
+  padding: 2rem;
+  background-color: #f1e2f1;
+}
+
+.intro h2 {
+  font-size: 2rem;
+}
+
+.intro p {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.highlights {
+  padding: 2rem;
+}
+
+
+.highlight-item p {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.tips {
+  padding: 2rem;
+  background-color: #eafdb6;
+}
+
+.tips h2 {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.tips ul {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+}
+
+.tips li {
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
